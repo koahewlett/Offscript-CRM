@@ -1,1 +1,0 @@
-export default function Analytics(){return <div className="space-y-4"><h1 className="text-3xl font-bold">Analytics</h1><div className="panel text-muted">No verified ticket sales data has been imported. Revenue charts and leaderboards are intentionally unavailable until ticket ingestion is implemented.</div></div>}

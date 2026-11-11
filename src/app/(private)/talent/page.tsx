@@ -1,2 +1,0 @@
-import Link from "next/link";
-export default function Talent(){return <div className="space-y-4"><h1 className="text-3xl font-bold">Talent & Staff</h1><p className="text-muted">Talent and staff currently live in the People database and can have multiple roles.</p><Link className="action inline-block" href="/people">Open People</Link><p className="text-muted">Dedicated staffing filters and event rosters remain to be implemented.</p></div>}
